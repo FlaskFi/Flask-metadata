@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/kasoqian/HassanNFT/main/metadata/images/4.png",
+  "name": "Flask Lab PASS Phase1",
+  "description": "(1/10) Access pass to Flask Finance beta product",
+  "external_url": "https://flaskfi.xyz/#/trade",
+  "attributes": [
+    {
+      "trait_type": "health",
+      "value": "9"
+    },
+    {
+      "trait_type": "power",
+      "value": "68"
+    },
+    {
+      "trait_type": "magic",
+      "value": "16"
+    },
+    {
+      "trait_type": "exp",
+      "value": "93"
+    },
+    {
+      "trait_type": "lv",
+      "value": "R"
+    }
+  ]
+}
